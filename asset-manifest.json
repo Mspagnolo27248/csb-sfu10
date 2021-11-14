@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://mspagnolo27248.github.io/csb-sfu10/static/js/main.a9ca1b21.chunk.js",
+    "main.js.map": "https://mspagnolo27248.github.io/csb-sfu10/static/js/main.a9ca1b21.chunk.js.map",
+    "runtime-main.js": "https://mspagnolo27248.github.io/csb-sfu10/static/js/runtime-main.0bdb8bd5.js",
+    "runtime-main.js.map": "https://mspagnolo27248.github.io/csb-sfu10/static/js/runtime-main.0bdb8bd5.js.map",
+    "static/js/2.268861b2.chunk.js": "https://mspagnolo27248.github.io/csb-sfu10/static/js/2.268861b2.chunk.js",
+    "static/js/2.268861b2.chunk.js.map": "https://mspagnolo27248.github.io/csb-sfu10/static/js/2.268861b2.chunk.js.map",
+    "index.html": "https://mspagnolo27248.github.io/csb-sfu10/index.html",
+    "precache-manifest.b2a500a685902139dae0a77e5f844871.js": "https://mspagnolo27248.github.io/csb-sfu10/precache-manifest.b2a500a685902139dae0a77e5f844871.js",
+    "service-worker.js": "https://mspagnolo27248.github.io/csb-sfu10/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bdb8bd5.js",
+    "static/js/2.268861b2.chunk.js",
+    "static/js/main.a9ca1b21.chunk.js"
+  ]
+}
